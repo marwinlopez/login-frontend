@@ -1,0 +1,7 @@
+com\web\services\rest\jpa\entities\Usuario_.class
+com\web\services\rest\service\AbstractFacade.class
+com\web\services\rest\service\ApplicationConfig.class
+com\web\services\rest\service\UsuarioFacadeREST.class
+com\web\services\rest\jpa\dao\UsuarioDAO.class
+com\web\services\rest\service\NewCrossOriginResourceSharingFilter.class
+com\web\services\rest\jpa\entities\Usuario.class
